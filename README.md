@@ -4,6 +4,9 @@
 this is the example open access code for paper "Gaitxh/FCCJIA-An-adaptive-joint-CCA-ICA-method-for-ocular-artifact-removal"
 
 
+We provide a sample program named Demo.m, which you can run to preliminarily verify the effectiveness of the method described in this paper for electroocular artifact removal.
+
+
 If you would like to utilized the ATICA, please cite the paper "An Adaptive EOG Removal Method Based on Local Density", 
 
 
